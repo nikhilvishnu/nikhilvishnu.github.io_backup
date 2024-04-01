@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nikhilvishnu.github.ioempty/sitemap.xml
+Sitemap: https://nikhilvishnu.github.ioblank/sitemap.xml

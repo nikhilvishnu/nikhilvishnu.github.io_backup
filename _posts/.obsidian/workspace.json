@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "0f604d64f78c9384",
+    "type": "split",
+    "children": [
+      {
+        "id": "44d30d6b8fd355a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eff6e200221aa9b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2017-01-07-sapiens-a-brief-history-of-humankind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1358bbe274dcac42",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc4bbedcac421f24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76a870805522d728",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b61281ab078cbfcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04f2facd229b0553",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f043be75d462a43",
+    "type": "split",
+    "children": [
+      {
+        "id": "b50bb30bd2932aa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6dd994d2ab5c8f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2017-01-07-sapiens-a-brief-history-of-humankind.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15e08ec4a07cab1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2017-01-07-sapiens-a-brief-history-of-humankind.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94a703db314c11d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ff5348320187d2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2017-01-07-sapiens-a-brief-history-of-humankind.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eff6e200221aa9b6",
+  "lastOpenFiles": [
+    "2018-12-22-distill.md",
+    "2017-01-07-sapiens-a-brief-history-of-humankind.md",
+    "2016-12-31-my-year-2016-in-books.md",
+    "2021-07-04-diagrams.md",
+    "2022-02-01-redirect.md",
+    "2015-10-20-math.md",
+    "2015-10-20-disqus-comments.md",
+    "2015-07-15-code.md",
+    "2022-12-10-giscus-comments.md",
+    "2023-03-21-tables.md",
+    "2023-04-25-audios.md",
+    "2023-05-12-custom-blockquotes.md",
+    "2024-01-27-advanced-images.md",
+    "2023-07-12-post-bibliography.md",
+    "2023-12-12-tikzjax.md",
+    "2024-01-27-vega-lite.md",
+    "2024-01-27-vega-lite 1.md",
+    "2015-03-15-formatting-and-links.md",
+    "Untitled.md",
+    "2024-01-26-chartjs.md",
+    "2020-09-28-github-metadata.md",
+    "2015-05-15-images.md",
+    "2015-03-16-formatting-and-links-2.md"
+  ]
+}

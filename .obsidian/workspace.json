@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "fc4863eb9ea25b83",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcb892fdcf2733e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb3075658949133d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "425c135d6597dcdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a3267b9c8455bd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fbe310b154ddf9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a6a43b317c0f369",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4893b0ecaf857e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31072e40ef5e7632",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe26a60e95a4774a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1378cfcc4d50a0ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-04-03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41f3d99938fa0881",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-04-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1359f0decdca4222",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "961b8f9f71b07a01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-04-03.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb3075658949133d",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-04-03.md",
+    "Gemfile.lock",
+    "_news/announcement_3.md",
+    "_site/blog/2015/formatting-and-links/index.html",
+    "_site/blog/2015/formatting-and-links",
+    "_news/announcement_2.md",
+    "_news/announcement_1.md",
+    "_pages/about.md",
+    "_pages/about_einstein.md",
+    "_pages/blog.md",
+    "_pages/cv.md",
+    "_pages/dropdown.md",
+    "_pages/news.md",
+    "_pages/profiles.md",
+    "_pages/projects.md",
+    "_pages/publications.md",
+    "_pages/repositories.md",
+    "_pages/teaching.md",
+    "_projects/1_project.md"
+  ]
+}

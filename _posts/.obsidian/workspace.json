@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2017-01-07-sapiens-a-brief-history-of-humankind.md",
+                "file": "2022-06-22-how-to-use-psychographics-to-improve-your-product.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2017-01-07-sapiens-a-brief-history-of-humankind.md",
+                "file": "2022-06-22-how-to-use-psychographics-to-improve-your-product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2017-01-07-sapiens-a-brief-history-of-humankind.md",
+                "file": "2022-06-22-how-to-use-psychographics-to-improve-your-product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2017-01-07-sapiens-a-brief-history-of-humankind.md"
+                "file": "2022-06-22-how-to-use-psychographics-to-improve-your-product.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "eff6e200221aa9b6",
   "lastOpenFiles": [
-    "2018-12-22-distill.md",
+    "2021-07-31-creative-selection-inside-apples-design-process-during-the-golden-age-of-steve-jobs.md",
+    "2022-06-22-how-to-use-psychographics-to-improve-your-product.md",
+    "2021-07-26-indistractable-how-to-control-your-attention-and-choose-your-life-book-review.md",
+    "2017-01-22-on-the-shortness-of-life-seneca.md",
     "2017-01-07-sapiens-a-brief-history-of-humankind.md",
     "2016-12-31-my-year-2016-in-books.md",
+    "2018-12-22-distill.md",
     "2021-07-04-diagrams.md",
     "2022-02-01-redirect.md",
     "2015-10-20-math.md",
@@ -169,7 +173,6 @@
     "Untitled.md",
     "2024-01-26-chartjs.md",
     "2020-09-28-github-metadata.md",
-    "2015-05-15-images.md",
-    "2015-03-16-formatting-and-links-2.md"
+    "2015-05-15-images.md"
   ]
 }
